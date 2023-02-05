@@ -1,0 +1,6 @@
+h1,
+h2,
+main {
+    flex: 1;
+    flex-direction: column;
+}
